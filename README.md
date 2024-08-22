@@ -26,61 +26,20 @@ JobListing is a web application built with the MERN stack (MongoDB, Express.js, 
 - Node.js (v14 or higher)
 - MongoDB (running locally or a cloud instance)
 
-### Backend Setup
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/JobListing.git
-   ```
-
-2. Navigate to the `server` directory:
-
-   ```bash
-   cd JobListing/server
-   ```
-
-3. Install dependencies:
+1. Install dependencies:
 
    ```bash
    npm install
    ```
 
-4. Create a `.env` file in the `server` directory and configure the following environment variables:
-
-   ```env
-   PORT=5000
-   MONGO_URI=your_mongodb_connection_string
-   JWT_SECRET=your_jwt_secret
-   ```
-
-5. Start the server:
+2. Start the backend and frontend:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
-### Frontend Setup
-
-1. Navigate to the `client` directory:
-
-   ```bash
-   cd ../client
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-
-3. Start the development server:
-
-   ```bash
-   npm start
-   ```
-
-The application will be running at `http://localhost:3000` (frontend) and `http://localhost:5000` (backend).
+The application will be running at `http://localhost:8000` (frontend) and `http://localhost:5173` (backend).
 
 ## Usage
 
