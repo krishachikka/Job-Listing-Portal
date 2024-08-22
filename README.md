@@ -21,9 +21,8 @@ JobListing is a web application built with the MERN stack (MongoDB, Express.js, 
 
 ### DEMONSTRATION
 
-https://github.com/user-attachments/assets/00c6f3e5-ad7e-4754-8f00-47e7eb1beb4d
+https://github.com/user-attachments/assets/1505c460-7d5d-45da-b623-90a2fa098b2c
 
-https://github.com/user-attachments/assets/3b1ad40c-c896-4503-a48d-94b15f76607e
 
 ### Prerequisites
 
